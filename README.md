@@ -24,9 +24,9 @@ I enjoy building modern, scalable web applications with React, Next.js, Node.js 
 
 ## 🌐 Connect with Me
 
-📧 Email: mahide@example.com
+📧 Email: mahidehasansiyam123.com
 
-💼 LinkedIn: https://linkedin.com/in/your-profile
+💼 LinkedIn: https://www.linkedin.com/in/mahedi-hasan-siyam
 
 🌐 Portfolio: https://your-portfolio.vercel.app
 
