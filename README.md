@@ -21,15 +21,16 @@ I enjoy building modern, scalable web applications with React, Next.js, Node.js 
 
 ---
 
-## 🌐 Connect With Me
 
-<p align="left">
+## 🌐 Connect with Me
 
-<a href="https://github.com/mahidehasansiyam">
-GitHub
-</a>
+📧 Email: mahide@example.com
 
-</p>
+💼 LinkedIn: https://linkedin.com/in/your-profile
+
+🌐 Portfolio: https://your-portfolio.vercel.app
+
+🐙 GitHub: https://github.com/mahidehasansiyam
 
 ---
 
