@@ -37,6 +37,13 @@ I enjoy building modern, scalable web applications with React, Next.js, Node.js 
 
 ---
 
+## 🔥 Current Activities
+
+- 🌱 Learning Next.js and TypeScript
+- 💻 Building ShopOra E-commerce
+- 📚 Studying Statistics at Rajshahi University
+- 🚀 Improving Backend Development with Express & MongoDB
+
 ## 💻 Tech Stack
 
 ### Frontend
