@@ -24,6 +24,9 @@ I enjoy building modern, scalable web applications with React, Next.js, Node.js 
 
 ## 🌐 Connect with Me
 
+- 📱 Phone: +880 1994338692
+- 🌍 Location: Rajshahi, Bangladesh
+
 📧 **Email:** <mahidehasansiyam123@gmail.com>
 
 💼 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/mahedi-hasan-siyam)
